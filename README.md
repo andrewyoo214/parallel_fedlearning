@@ -1,3 +1,3 @@
 # Parallel_Fedlearning
 
-Parallel Federated Learning implementation. (by Hamin-Son. SKKU)
+Parallel Federated Learning implementation codes. (by Hamin-SON. SKKU)
